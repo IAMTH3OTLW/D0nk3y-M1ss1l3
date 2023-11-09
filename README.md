@@ -1,9 +1,10 @@
 # D0nk3y-M1ss1l3
 Targeted wireless survey tool using airodunp-ng, with SSH capabilities for remote systems
 
-						D0nk3y M1ss!l3
-						 An OTLW tool
-sudo python3 Donkeymissile.py
+					sudo python3 Donkeymissile.py
+D0nk3y M1ss!l3
+An OTLW tool
+
 ...................................................................................................................
 
 Welcome to part 2 of the Charlie Bomb series
