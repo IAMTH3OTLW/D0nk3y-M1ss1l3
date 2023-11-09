@@ -16,6 +16,5 @@ What's different? DM is a targeted survey based on bssid and channel of the targ
 ...................................................................................................................
 
 Sudo pyhton3 Donkeymissile.py
-...................................................................................................................
 "Push button to fire donkeys"
 -OTLW
