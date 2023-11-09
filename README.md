@@ -13,7 +13,9 @@ or other means of remote connection through ssh
 
 What's different? DM is a targeted survey based on bssid and channel of the target network.
 
-Sudo pyhton3 Donkeymissile.py
+...................................................................................................................
 
+Sudo pyhton3 Donkeymissile.py
+...................................................................................................................
 "Push button to fire donkeys"
 -OTLW
